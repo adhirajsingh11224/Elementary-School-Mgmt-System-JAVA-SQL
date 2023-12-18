@@ -1,0 +1,4 @@
+Elemantary school mgmt
+
+success criteria:
+1. no two teachers can be assigned for same home room class (add teacher.java)
